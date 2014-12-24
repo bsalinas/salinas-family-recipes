@@ -1,5 +1,6 @@
 # Site settings
 plugins:     _plugins
+baseurl: /salinas-family-recipes
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
