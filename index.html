@@ -11,7 +11,7 @@ layout: default
 
       {% assign recipe = recipe_hash[1] %}
       {% if recipe.type == null %}
-      	<li><a href="{{site.baseurl}}/{{section.metadata.title}}/{{recipe_hash[0]}}.html">{{recipe.title}}</a></li>
+      	<li><a href="{{site.baseurl}}/{{section_hash[0]}}/{{recipe_hash[0]}}.html">{{recipe.title}}</a></li>
       {% endif %}
       <!-- {% if recipe.type == null %} -->
         <!-- {% include recipe.html recipe=recipe section=section.metadata %} -->
