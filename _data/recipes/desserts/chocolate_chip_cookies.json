@@ -1,6 +1,6 @@
 {
-	"title":"Chocolate Chip Cookies",
-	"yield":"",
+	"title":"Monster Cookies",
+	"yield":"Yield: 3 12” cookies",
 	"ingredients":[
 		{
 			"ingredients":
@@ -16,12 +16,10 @@
 		}
 	],
 	"steps":[
-		"Preheat oven to 350F.",
-		"Cream butter and sugars together until fluffy",
-		"Add eggs and vanilla and beat until mixed",
-		"In a separate bowl, combine dry ingredients",
-		"Mix wet and dry ingredients together and blend until mixed",
-		"Stir 1 bag of chocolate chips into the mixture",
-		"Bake cookies for 10 minutes."
+		"Cream butter, sugars and vanilla. Add eggs and beat until fluffy.",
+		"In a separate bowl, combine flour, soda and salt.",
+		"Add to creamed mixture. Stir in chocolate chips.",
+		"Divide into thirds. Spread each third onto a greased 12” pizza pan.",
+		"Bake at 375 degrees for 8 to 10 minutes. (Dough can also be baked in pie pans yielding nine 6” cookies.)"
 	]
 }
