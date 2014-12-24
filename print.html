@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="table-of-contents">
+<div class="">
   {% for section_hash in site.data.recipes %}
     {% assign section= section_hash[1] %}
     {% for recipe_hash in section %}
@@ -13,4 +13,3 @@ layout: default
     {% endfor %}
   {% endfor %}
 </div>
-
