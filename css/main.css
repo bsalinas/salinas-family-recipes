@@ -360,7 +360,7 @@ body {
   font-size: 20px;
   color: #818392; }
 
-@media (min-width: 800px) {
+@media (min-width: 800px), print {
   .mobile-only {
     display: none; }
 
@@ -428,7 +428,7 @@ blockquote {
   quotes: "“" "”" "‘" "’"; }
 
 blockquote:before {
-  color: #8697ff;
+  /*color: lighten($accent-color,10%);//#ccc;*/
   content: open-quote;
   font-size: 4em;
   line-height: 0.1em;
