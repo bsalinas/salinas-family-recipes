@@ -407,6 +407,9 @@ hr {
   background-color: #818392; }
 
 @media print {
+  .mobile-only {
+    display: none; }
+
   .page-break {
     display: block;
     page-break-before: always; } }
@@ -435,8 +438,41 @@ blockquote:before {
 blockquote p {
   display: inline; }
 
+.container [data-section="breakfast"] h1, .container [data-section="breakfast"] h2 {
+  color: #62e7fe !important; }
+.container [data-section="breakfast"] blockquote::before {
+  color: #62e7fe; }
+.container [data-section="breakfast"] blockquote {
+  border-left: 10px solid #62e7fe; }
+.container [data-section="breakfast"] .bottom-bar {
+  background-color: #62e7fe; }
+
+.container [data-section="dessert"] h1, .container [data-section="dessert"] h2 {
+  color: #5db3fc !important; }
+.container [data-section="dessert"] blockquote::before {
+  color: #5db3fc; }
+.container [data-section="dessert"] blockquote {
+  border-left: 10px solid #5db3fc; }
+.container [data-section="dessert"] .bottom-bar {
+  background-color: #5db3fc; }
+
 .container [data-section="main"] h1, .container [data-section="main"] h2 {
-  color: red !important; }
+  color: #0097c4 !important; }
+.container [data-section="main"] blockquote::before {
+  color: #0097c4; }
+.container [data-section="main"] blockquote {
+  border-left: 10px solid #0097c4; }
+.container [data-section="main"] .bottom-bar {
+  background-color: #0097c4; }
+
+.container [data-section="sides"] h1, .container [data-section="sides"] h2 {
+  color: #060b6f !important; }
+.container [data-section="sides"] blockquote::before {
+  color: #060b6f; }
+.container [data-section="sides"] blockquote {
+  border-left: 10px solid #060b6f; }
+.container [data-section="sides"] .bottom-bar {
+  background-color: #060b6f; }
 
 /**
  * Syntax highlighting styles
