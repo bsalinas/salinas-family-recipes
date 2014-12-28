@@ -360,17 +360,20 @@ body {
   font-size: 20px;
   color: #818392; }
 
-.left {
-  width: 33%;
-  display: inline-block;
-  vertical-align: top; }
+@media (min-width: 800px) {
+  .mobile-only {
+    display: none; }
 
-.right {
-  width: calc(66% - 40px);
-  padding-left: 40px;
-  display: inline-block;
-  vertical-align: top; }
+  .left {
+    width: 33%;
+    display: inline-block;
+    vertical-align: top; }
 
+  .right {
+    width: calc(66% - 40px);
+    padding-left: 40px;
+    display: inline-block;
+    vertical-align: top; } }
 .ingredients ul {
   list-style-type: none;
   margin-left: 0; }
@@ -431,6 +434,9 @@ blockquote:before {
 
 blockquote p {
   display: inline; }
+
+.container [data-section="main"] h1, .container [data-section="main"] h2 {
+  color: red !important; }
 
 /**
  * Syntax highlighting styles
