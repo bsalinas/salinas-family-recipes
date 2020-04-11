@@ -1,0 +1,32 @@
+---
+category: main
+ingredients:
+- ingredients:
+  - 1/2 cup seasoned bread crumbs
+  - 5 Tbs. grated Parmesan cheese
+  - 2 tsp. dried oregano, divided
+  - salt to taste
+  - ground black pepper to taste
+  - 1 egg
+  - 1 (12 ounce) package firm tofu
+  - 2 Tbs. olive oil
+  - 1 (24 ounce) can pasta sauce
+  - 4 ounces shredded mozzarella cheese
+  - 3 cups cooked spinach, well drained (optional)
+layout: recipe_layout
+steps:
+- Preheat oven to 400 degrees.
+- In a small bowl, combine bread crumbs, 2 Tbs. Parmesan cheese, 1 tsp. oregano, salt,
+  and black pepper
+- Slice tofu into 1/4 inch thick slices and place in bowl of cold water. In a separate
+  bowl beat the egg. One at a time, pat dry tofu slices then coat in egg and press
+  into crumb mixture, turning to coat all sides
+- Heat oil in a medium skillet over medium heat.  Cook tofu slices until crisp on
+  one side.  Drizzle with a bit more olive oil, turn, and brown on the other side
+- Place a thin layer of sauce (approximately 1 cup) in an 8 inch square baking pan.  Arrange
+  tofu slices in the pan. Cover with well drained spinach. Pour remaining sauce over
+  tofu and spinach mixture.  Top with shredded mozzarella and remaining 3 Tbs. Parmesan.
+- Bake at 400F for 20 minutes
+title: Tofu Parmigiana
+
+---

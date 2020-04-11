@@ -1,0 +1,38 @@
+<div class="page" data-section="{{include.section}}">
+<div class="recipe">
+  <div class="recipe-header">
+    <h3 class="yields">{{include.recipe.yield}}</h3>
+    <h1>{{include.recipe.title}}</h1>
+  </div>
+  <hr size="4">
+  
+  <div class="left ingredients">
+      <h2 class="mobile-only">Ingredients</h2>
+      {% for ingredient_section in include.recipe.ingredients%}
+      {%if ingredient_section.title%}<h3>{{ingredient_section.title}}</h3>{%endif%}
+      <ul>
+        {% for ingredient in ingredient_section.ingredients%}
+        <li>{{ingredient}}</li>
+        {% endfor %}
+      </ul>
+        
+      {% endfor %}
+    </div>
+    <div class="right instructions">
+      <h2 class="mobile-only">Instructions</h2>
+      <ol>
+      {%for step in include.recipe.steps%}
+        <li>
+          <p>{{step}}</p>
+        </li>
+      {%endfor%}
+      </ol>
+    </div>
+    {%if include.recipe.story%}
+    <blockquote>{{include.recipe.story}}</blockquote>
+    {% endif %}
+
+</div>
+  <div class="bottom-bar"><p>{{include.section}}</p></div>
+</div>
+<div class="page-break"></div>

@@ -1,0 +1,24 @@
+---
+category: sides
+ingredients:
+- ingredients:
+  - 1 package Jiffy cornbread mix
+  - 3/4 cup cottage cheese
+  - 1/2 cup onion (chopped)
+  - 3 eggs
+  - 1/4 cup melted margarine
+  - 1 tsp. salt
+  - 1 10oz package chopped frozen broccoli (partially thawed and drained)
+  - 3/4 cup shredded cheddar cheese
+layout: recipe_layout
+steps:
+- Preheat oven to 400 degrees
+- 'Combine cornbread, cottage cheese, onion, eggs and melted margarine. '
+- Mix well.
+- Stir in broccoli & cheese.
+- "Pour into greased 9\u201D baking pan."
+- Bake at 400 degrees for 30 minutes.
+title: "Juani\u2019s Broccoli Cornbread"
+yield: 8 servings
+
+---

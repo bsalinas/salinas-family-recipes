@@ -1,0 +1,33 @@
+---
+category: breakfast
+ingredients:
+- ingredients:
+  - 1/2 cup (1 stick) butter
+  - 1 cup light brown sugar, packed
+  - 2 Tbs. light corn syrup
+  - 3 Granny Smith apples (or other firm baking apples)
+  - 5 eggs
+  - "1\xBD cups milk"
+  - 1 Tbs. vanilla extract
+  - 1 loaf French Bread, cut 3/4-inch slices
+  - Cinnamon sugar (see below)
+layout: recipe_layout
+steps:
+- Coat the sides and bottom of the baking pan thoroughly with butter or non-stick
+  spray.
+- Core the apples and cut them in 1/2-inch slices. In a medium saucepan over medium-low
+  heat, melt the butter and stir in the brown sugar and corn syrup until it is well
+  dissolved.  Add the cut apples to the caramel syrup. When all of the apples are
+  in, stir gently to make sure they are all coated. Spread the mixture in the bottom
+  of the prepared baking pan.
+- Whisk together, eggs, milk and vanilla to make a custard. Arrange bread slices in
+  a single layer over the apple mixture. Pour the egg mixture over, making sure all
+  of the bread slices are moistened. Cover and refrigerate overnight (8-10 hours).
+- In the morning, take the pan out of the refrigerator and let it come closer to room
+  temperature while the oven is preheating to 350 degrees. Uncover the pan and bake
+  45-60 minutes, until the custard is set. To serve, turn each serving over so that
+  the caramel apple side is up. Sprinkle with cinnamon sugar.
+title: Caramel Apple French Toast
+yield: Serves about 8
+
+---

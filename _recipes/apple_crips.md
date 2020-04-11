@@ -1,0 +1,28 @@
+---
+category: desserts
+ingredients:
+- ingredients:
+  - 3 cups sliced or chopped apples
+  - 1 Tbs. flour
+  - 1/4 cup sugar
+  - 1 tsp. cinnamon
+  - 1/8 tsp. salt
+  - 1 Tbs. water
+- ingredients:
+  - 1/2 cup rolled oats
+  - 1/4 tsp. salt
+  - 1/4 cup margarine
+  - 1/3 cup brown sugar
+  title: Topping
+layout: recipe_layout
+steps:
+- Preheat oven to 375 degrees.
+- Combine flour, sugar, cinnamon and 1/8 tsp. salt.  Mix with apples and water, and
+  place in a greased casserole pan.
+- 'For topping, cut oats, salt, margarine and brown sugar together with a pastry blender. '
+- Sprinkle on top of casserole mixture.
+- Bake for 35 minutes.
+title: Apple Crisp
+yield: Serves 6
+
+---

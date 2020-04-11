@@ -1,0 +1,32 @@
+---
+category: desserts
+ingredients:
+- ingredients:
+  - 1 package Angel Food Cake Mix
+  - 1 tsp. peppermint extract
+  - 6 drops red food coloring
+  title: Cake
+- ingredients:
+  - 1 cup confectioners sugar
+  - 2 Tbs. milk
+  - 1/4 tsp. peppermint extract
+  - 3 drops red food coloring
+  - 1 peppermint candy stick, crushed (optional)
+  title: Glaze
+layout: recipe_layout
+steps:
+- Preheat oven.
+- 'For cake, prepare batter following package directions. '
+- 'Stir in peppermint extract.  '
+- Divide and tint half of batter with red food coloring.
+- 'Spoon batter into ungreased 10-inch tube pan, alternating colors to marble. '
+- Bake and cool cake following package directions.
+- Brush loose crust from cake with paper towel.
+- For glaze, combine sugar, milk, peppermint extract and red food coloring in small
+  bowl. Stir until smooth.
+- Drizzle glaze over cake and sprinkle with crushed peppermint candy, if desired.
+story: Felipe's mom, Margarita, often made this cake for the Salinas Family Christmas
+  gathering.
+title: Peppermint Marble Angel Cake
+
+---

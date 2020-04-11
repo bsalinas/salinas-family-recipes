@@ -1,0 +1,32 @@
+---
+category: desserts
+ingredients:
+- ingredients:
+  - 2 cups flour
+  - 3/4 tsp. salt
+  - 3/4 cup Crisco
+  - 1/4 cup water
+  title: Pie Crust
+- ingredients:
+  - 2 eggs well beaten
+  - 3/4 cup sugar
+  - 4 Tbs flour
+  - 3/4 cup white karo
+  - 1/4 cup butter (melted)
+  - 1 cup pecans
+  - 1 tsp. vanilla
+  title: Filling
+layout: recipe_layout
+steps:
+- Preheat oven to 325 degrees
+- "For pie crust, cut 1\u215E cups flour into crisco."
+- Add salt to flour and crisco mixture
+- Mix 1/8 cup flour with 1/4 cup water, and add to flour/salt mixture
+- Roll dough into pie crust
+- For the pie filling, mix ingredients in order.
+- Pour into uncooked pie shell
+- Cook for 45 minutes or until firm and brown.
+title: Pecan Pie
+yield: ''
+
+---

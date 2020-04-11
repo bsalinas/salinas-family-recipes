@@ -1,0 +1,49 @@
+---
+category: desserts
+ingredients:
+- ingredients:
+  - Vegetable oil spray, for misting the pan.
+  - Flour for dusting the pan.
+  - "1 package (18.25 ounces) plain devil\u2019s food or dark chocolate fudge cake\
+    \ mix"
+  - 1 package (3.9 ounce) chocolate instant pudding mix
+  - 1 cup sour cream or yogurt
+  - 1/2 cup water
+  - 1/2 cup vegetable oil
+  - 4 large eggs
+  - "1\xBD cups semisweet chocolate chips"
+  title: Cake
+- ingredients:
+  - 1 cup granulated sugar
+  - 5 Tbs. butter
+  - 1/3 cup whole milk
+  - 1 cup semisweet chocolate chips
+  title: Chocolate Icing
+layout: recipe_layout
+steps:
+- 'Place a rack in the center of the oven. Preheat to 350 degrees. Lightly mist 12-cup
+  Bundt pan with vegetable oil spray, then dust with flour. Shake out excess flour.
+  Set pan aside. '
+- Place cake mix, pudding mix, sour cream, water, oil and eggs in large mixing bowl.
+  Blend with electric mixer on low speed for 1 minute. Stop and scrape down sides
+  of bowl with a rubber spatula. Increase mixer speed to medium and beat 2 to 3 minutes
+  more, scraping sides down again if needed. Batter should look thick and well combined.
+  Fold in chocolate chips for cake, making sure they are well distributed throughout
+  batter. Pour batter into prepared pan, smoothing out with rubber spatula. Place
+  pan in oven.
+- 'Bake cake until it springs back when lightly pressed with finger and is just starting
+  to pull away from sides of pan, 58 to 62 minutes. Run long, sharp knife around edge
+  of cake and invert onto rack to cool completely, 20 minutes more. '
+- Prepare icing by placing sugar, butter and milk in medium-size saucepan over medium-high
+  heat. Stir until mixture comes to boil, 3 to 4 minutes. Still stirring, let mixture
+  boil until sugar dissolves, 1 minute. Remove pan from heat. Stir in chocolate chips,
+  and continue stirring until mixture is smooth and chocolate has melted.
+- 'Place cake on serving platter and pour warm icing over it. Let cake rest for 10
+  minutes before slicing, then slice and serve. (Store cake wrapped in aluminum foil
+  or plastic wrap, or in cake saver, at room temperature for up to 1 week. Or freeze,
+  wrapped in foil, for up to 6 months. Thaw cake overnight in refrigerator before
+  serving.) '
+title: Darn Good Chocolate Cake
+yield: Serves 16
+
+---
