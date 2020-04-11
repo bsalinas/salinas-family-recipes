@@ -1,18 +1,6 @@
-[
 {
-    "name":"Breakfast",
-    "class":"breakfast"
-},
-{
-    "name":"Main",
-    "class":"main"
-},
-{
-    "name":"Desserts",
-    "class":"desserts"
-},
-{
-    "name":"Sides",
-    "class":"sides"
+    "breakfast":"Breakfast",
+    "main":"Main",
+    "desserts":"Desserts",
+    "sides":"Sides"
 }
-]

@@ -3,9 +3,9 @@ layout: default
 ---
 <div class="table-of-contents">
 {% for typ in site.data.sections %}
-<h1>{{ typ.name }}</h1>
+<h1>{{ typ[1] }}</h1>
 <ul>
-{% assign these_recipes = site.recipes | where: "category",typ.class %}
+{% assign these_recipes = site.recipes | where: "category",typ[0] %}
 {% assign sorted_recipes = these_recipes | sort: "title" %}
 {% for recipe in sorted_recipes %}
   <li><a href="{{site.baseurl}}{{ recipe.url }}">{{ recipe.title }}</a></li>

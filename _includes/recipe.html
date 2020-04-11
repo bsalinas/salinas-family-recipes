@@ -1,4 +1,4 @@
-<div class="page" data-section="{{include.section}}">
+<div class="page" data-section="{{include.recipe.category}}">
 <div class="recipe">
   <div class="recipe-header">
     <h3 class="yields">{{include.recipe.yield}}</h3>
@@ -33,6 +33,6 @@
     {% endif %}
 
 </div>
-  <div class="bottom-bar"><p>{{include.section}}</p></div>
+  <div class="bottom-bar"><p>{{site.data.sections[include.recipe.category]}}</p></div>
 </div>
 <div class="page-break"></div>
