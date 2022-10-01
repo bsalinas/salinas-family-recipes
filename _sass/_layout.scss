@@ -261,14 +261,19 @@
 
 h1{
     color:$accent-color!important;
-    font-size:65px;
-    line-height:65px;
+    font-size:3em;
+    line-height:1.5em;
     font-weight:400;
 }
 h2{
     color:$accent-color!important;
     font-size:20px;
     line-height:24px;
+}
+a.recipe-link
+{
+    font-size:2em;
+    line-height:1.2em;
 }
 body{
     font-size:12px;

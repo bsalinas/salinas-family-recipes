@@ -8,7 +8,7 @@ layout: default
 {% assign these_recipes = site.recipes | where: "category",typ[0] %}
 {% assign sorted_recipes = these_recipes | sort: "title" %}
 {% for recipe in sorted_recipes %}
-  <li><a href="{{site.baseurl}}{{ recipe.url }}">{{ recipe.title }}</a></li>
+  <li><a class="recipe-link" href="{{site.baseurl}}{{ recipe.url }}">{{ recipe.title }}</a></li>
 {% endfor %}
 </ul>
 {% endfor %}
